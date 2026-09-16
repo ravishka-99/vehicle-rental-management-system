@@ -1,10 +1,10 @@
 # 🚗 Vehicle Rental Management System
 
-A database management project for a vehicle rental system developed using PostgreSQL.
+A database management project developed using PostgreSQL for managing vehicle rentals, customers, bookings, payments, and vehicle returns.
 
 ## 📌 Project Overview
 
-The Vehicle Rental Management System is designed to manage the main operations of a vehicle rental business. The system stores and manages information about users, customers, vehicles, bookings, payments, and vehicle returns.
+The Vehicle Rental Management System is designed to manage the main activities of a vehicle rental business. It stores and manages information about customers, vehicles, bookings, payments, and returns using a relational database.
 
 ## 🎯 Objectives
 
@@ -119,5 +119,6 @@ vehicle-rental-management-system/
 ## 👨‍💻 Author
 
 **Ravishka Udayakantha**
-
-University of Kelaniya
+* Faculty Of Computing Technology
+* University of Kelaniya
+* BICT Undergraduate
