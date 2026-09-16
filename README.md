@@ -79,7 +79,7 @@ The Entity Relationship Diagram of the system:
 
 ### Users Table
 
-![Users Table](<img width="1227" height="285" alt="users table" src="https://github.com/user-attachments/assets/699cf5c0-6f97-46a5-b1a1-d3ea8d51eb41" />)
+![Users Table](screenshots/userstable.png)
 
 ### Vehicle Categories Table
 
