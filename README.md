@@ -53,37 +53,37 @@ For example:
 
 The Entity Relationship Diagram of the system:
 
-![ER Diagram](<img width="996" height="661" alt="ER diagrom" src="https://github.com/user-attachments/assets/8ad56c6f-5713-45d7-ba5e-540efdefc14c" />)
+![ER Diagram](https://github.com/ravishka-99/vehicle-rental-management-system/tree/main/ER-Diagram)
 
 ## 📸 Database Screenshots
 
 ### Customers Table
 
-![Customers Table](screenshots/customerst table.png)
+![Customers Table](https://github.com/ravishka-99/vehicle-rental-management-system/tree/main/screenshots)
 
 ### Vehicles Table
 
-![Vehicles Table](screenshots/vehicles-table.png)
+![Vehicles Table](https://github.com/ravishka-99/vehicle-rental-management-system/tree/main/screenshots)
 
 ### Bookings Table
 
-![Bookings Table](screenshots/bookings-table.png)
+![Bookings Table](https://github.com/ravishka-99/vehicle-rental-management-system/tree/main/screenshots)
 
 ### Payments Table
 
-![Payments Table](screenshots/payments-table.png)
+![Payments Table](https://github.com/ravishka-99/vehicle-rental-management-system/tree/main/screenshots)
 
 ### Returns Table
 
-![Returns Table](screenshots/returns-table.png)
+![Returns Table](https://github.com/ravishka-99/vehicle-rental-management-system/tree/main/screenshots)
 
 ### Users Table
 
-![Users Table](screenshots/userstable.png)
+![Users Table](https://github.com/ravishka-99/vehicle-rental-management-system/tree/main/screenshots)
 
 ### Vehicle Categories Table
 
-![Vehicle Categories Table](screenshots/vehicle-categories-table.png)
+![Vehicle Categories Table](https://github.com/ravishka-99/vehicle-rental-management-system/tree/main/screenshots)
 
 ## ▶️ How to Use
 
